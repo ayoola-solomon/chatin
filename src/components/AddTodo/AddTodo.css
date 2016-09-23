@@ -1,0 +1,17 @@
+.AddTodo-Input {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.AddTodo-Input input {
+  width: 80%;
+  height: 45px;
+  outline: none;
+  font-size: 16px;
+  padding-left: 12px;
+  color: #999;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
